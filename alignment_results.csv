@@ -1,0 +1,6 @@
+Read_ID,Read_Length,Alignment_Status,Reference_Position
+SEQ_ID_001,24,Aligned,1.0
+SEQ_ID_002,24,Not Aligned,
+SEQ_ID_003,24,Not Aligned,
+SEQ_ID_004,24,Not Aligned,
+SEQ_ID_005,24,Not Aligned,
